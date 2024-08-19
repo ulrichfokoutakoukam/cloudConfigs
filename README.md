@@ -1,2 +1,1 @@
-# cloudConfigs
-yml properties project
+# eazybytes-config
